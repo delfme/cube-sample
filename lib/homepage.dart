@@ -54,7 +54,7 @@ class _HomePageState extends State<HomePage> {
                       /*
                       // 1. Using CachedNetworkImage
                       child: CachedNetworkImage(
-                        imageUrl: url1,
+                        imageUrl: url,
                         height: 30,
                         width: 30,
                       ),
@@ -70,7 +70,7 @@ class _HomePageState extends State<HomePage> {
                       /*
                       // 3. Using Image.network
                       child:Image.network(
-                        url1,
+                        url,
                         height: 30,
                         width: 30,
                       ),
